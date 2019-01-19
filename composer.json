@@ -1,5 +1,5 @@
 {
-    "name": "widop/google-analytics-bundle",
+    "name": "ottsch/google-analytics-bundle",
     "description": "Google certificate-based authentication in server-to-server interactions with google analytics",
     "keywords": [ "google", "analytics", "server" ],
     "type": "symfony-bundle",
