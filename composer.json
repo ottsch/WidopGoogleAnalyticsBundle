@@ -16,8 +16,8 @@
     ],
     "require": {
         "symfony/framework-bundle": "3.*",
-        "ottsch/google-analytics": "1.0.*",
-        "ottsch/http-adapter-bundle": "1.*"
+        "ottsch/google-analytics": "dev-master",
+        "ottsch/http-adapter-bundle": "dev-master"
     },
     "require-dev": {
         "phpunit/phpunit": "3.7.*"
